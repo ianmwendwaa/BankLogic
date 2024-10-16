@@ -1,3 +1,6 @@
+//This program is basically how monetary transactions skeleton looks like...I have been working on this as easy as it may seem but
+//it's now good..mostly.
+//Written by Ian @_.chelate
 fun main() {
     var balance = 0.00
     val isRunning = true
